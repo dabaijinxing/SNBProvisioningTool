@@ -1,0 +1,30 @@
+<XML>
+    <Header>
+        <ManufactoryName>雪球</ManufactoryName>
+        <BatchNo>FP1639553514285475359</BatchNo>
+        <TotalNum>3</TotalNum>
+        <ProductName>SNBTag</ProductName>
+        <PPID>490926-173825</PPID>
+        <ProductData>19108e6f032c238e</ProductData>
+        <ProductMode>222</ProductMode>
+        <Q_E>BJzFrd3QKbdTXTDm5dFtt6jSGxtItVsZ1bEQ6VvzFUXndM9Rjeu+PHFoM+RD8RRHblpLBU42dQcFbjmVzGuWkJY=</Q_E>
+        <Q_A>BDNMWnP9Yd82Qz+8aZI245jklBLzwP3E5doLQRh3lRcIcSCIjpeSN3a6SNxRfA+oe5xiqf7paw84QD9mnh5nVWA=</Q_A>
+    </Header>
+    <Tokens>
+        <token>
+            <uuid>da48094bb82842d5848bf4f95a593d7c</uuid>
+            <tokenValue>MYG/ME8CAQECAQEERzBFAiBZX/kMs+QgjA0fTyuolMXvs5JRUSHBVFkSA/xsacd+awIhAPYJgCVKW+wDwf5hfHsMX4AnSmb8reEyCQ8naOsf+IDVMGwCAQICAQEEZDFiMAkCAWYCAQEEAQIwEAIBZQIBAQQIRFPBvH0BAAAwEQICAMoCAQEECAAAAAAAAAAIMBYCAgDJAgEBBA00OTA5MjYtMTczODI1MBgCAWcCAQEEEDqlheaLTUCNmPR1Kqt6H/k=</tokenValue>
+            <sign>MEUCIDyVvU8ftiHxbtmNif908y7PldJxwxTnW2Eq8UgFIm9hAiEA6ynl6ig3DWpKs6er9yEZjMFAB/UxzrAcQxIh11/AvlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</sign>
+        </token>
+        <token>
+            <uuid>065602b1cbdb4d52acbd525744a51a63</uuid>
+            <tokenValue>MYG/ME8CAQECAQEERzBFAiAohf9PCjb5S1ahIlTxSFDVfHgy9Y8AbZardTqO5oKa4QIhAIIGIn59mLNs+k2e+ZoKqZFqWcZIMb0EJlcJNH2Lg+6qMGwCAQICAQEEZDFiMAkCAWYCAQEEAQIwEAIBZQIBAQQIsaTuvH0BAAAwEQICAMoCAQEECAAAAAAAAAAIMBYCAgDJAgEBBA00OTA5MjYtMTczODI1MBgCAWcCAQEEEFkqgG0AskAKthJ57yYhIIU=</tokenValue>
+            <sign>MEYCIQCARe1TLtzVi3b6NSsbAjgoppaqNzhY0Ixa/STolYNxygIhAOCbHAhVt+YIO00VVRdSXsIFBzDQQQOYgl6pQdLtElNRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</sign>
+        </token>
+        <token>
+            <uuid>1abbd1de1e65402cb2d1a4ca9377d76b</uuid>
+            <tokenValue>MYG+ME4CAQECAQEERjBEAiABZMiYxXdsyTOlWwXuTClTe+bc2VRy7pqDlCNL3nAdcgIgVL+bJhYNErKLey6ZhhupJgMEiC8GMrk/+oLe5JW8t4cwbAIBAgIBAQRkMWIwCQIBZgIBAQQBAjAQAgFlAgEBBAiopO68fQEAADARAgIAygIBAQQIAAAAAAAAAAgwFgICAMkCAQEEDTQ5MDkyNi0xNzM4MjUwGAIBZwIBAQQQykX604CZShe1xWlzipOg9w==</tokenValue>
+            <sign>MEYCIQDdf88uFEoW0tLNyWFtbfZJ30cbCGMPtszOxxcWrS4ZugIhAOXGyWCLJaOpTltrFLDaIvcwWVoqyYhcqNSj2ski6CIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</sign>
+        </token>
+    </Tokens>	
+</XML>

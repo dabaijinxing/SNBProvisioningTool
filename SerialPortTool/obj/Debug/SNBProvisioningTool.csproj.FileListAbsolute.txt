@@ -1,0 +1,13 @@
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\bin\Debug\SerialPortTool.exe.config
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\bin\Debug\SerialPortTool.exe
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\bin\Debug\SerialPortTool.pdb
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\bin\Debug\Antilost_SQL.dll
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\bin\Debug\ReadINI.dll
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\bin\Debug\SQLHelper.dll
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\obj\Debug\SerialPortTool.Form1.resources
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\obj\Debug\SerialPortTool.Properties.Resources.resources
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\obj\Debug\SNBProvisioningTool.csproj.GenerateResource.cache
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\obj\Debug\SNBProvisioningTool.csproj.CoreCompileInputs.cache
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\obj\Debug\SNBProvisioningTool.csproj.CopyComplete
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\obj\Debug\SerialPortTool.exe
+E:\SNBTag\生产及供应链\生产工具\使用版8_完整数据发送\SerialPortTool\SerialPortTool\obj\Debug\SerialPortTool.pdb
