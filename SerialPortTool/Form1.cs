@@ -243,6 +243,12 @@ namespace SerialPortTool
                 }
             });
         }
+        //删除字符串中所有的':'
+        public static string replace(string str)
+        {
+            string result = System.Text.RegularExpressions.Regex.Replace(str, "[:]", ""); //删除字符串中所有的'-'
+            return result;
+        }
         /// <summary>
         ///开始启动数据组包，串口发送数据，烧入设备
         /// </summary>
@@ -261,15 +267,15 @@ namespace SerialPortTool
 
                 DataTable tabSql = newSql.GetBurnInfo_ByMAC(strOrder, strMAC);      //从数据库中获取order工单号和MAC地址
                 //通过order和MAC地址，获取设备的SN码、sign、token、uuid
-                mac = tabSql.Rows[0][2].ToString();     
+                mac = replace(tabSql.Rows[0][2].ToString());
                 sn = tabSql.Rows[0][9].ToString();      
                 sign = tabSql.Rows[0][10].ToString();   
                 token = tabSql.Rows[0][12].ToString();  
                 uuid = tabSql.Rows[0][13].ToString();
 
-                licensedatatbx.Text += "uuid:" + uuid + "\r\n";
-                licensedatatbx.Text += "token:" + token + "\r\n";
-                licensedatatbx.Text += "sign:" + sign + "\r\n";
+                //licensedatatbx.Text += "uuid:" + uuid + "\r\n";
+                //licensedatatbx.Text += "token:" + token + "\r\n";
+                //licensedatatbx.Text += "sign:" + sign + "\r\n";
                 //创建uuid_token_sign数据包
                 bool ret = Module1.CreateDatePack(token, uuid, sign, mac, sn, out hexPack);
                 //licensedatatbx.Text += "hexPack:" + hexPack + "\r\n";   //将组包数据打印到测试文本框中

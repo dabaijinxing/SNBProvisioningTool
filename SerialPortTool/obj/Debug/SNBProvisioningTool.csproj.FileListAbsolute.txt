@@ -25,3 +25,15 @@ E:\SNBTag\生产及供应链\生产工具\SNBProvisioningTool\SerialPortTool\obj
 E:\SNBTag\生产及供应链\生产工具\SNBProvisioningTool\SerialPortTool\obj\Debug\SNBProvisioningTool.csproj.CopyComplete
 E:\SNBTag\生产及供应链\生产工具\SNBProvisioningTool\SerialPortTool\obj\Debug\SerialPortTool.exe
 E:\SNBTag\生产及供应链\生产工具\SNBProvisioningTool\SerialPortTool\obj\Debug\SerialPortTool.pdb
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\bin\Debug\SerialPortTool.exe.config
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\obj\Debug\SerialPortTool.exe
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\obj\Debug\SerialPortTool.pdb
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\bin\Debug\SerialPortTool.exe
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\bin\Debug\SerialPortTool.pdb
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\bin\Debug\Antilost_SQL.dll
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\bin\Debug\ReadINI.dll
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\bin\Debug\SQLHelper.dll
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\obj\Debug\SNBProvisioningTool.csprojResolveAssemblyReference.cache
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\obj\Debug\SerialPortTool.Form1.resources
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\obj\Debug\SerialPortTool.Properties.Resources.resources
+F:\VS2013_test\出厂预置烧录工具\出厂预置烧录工具【优化版】\SNBProvisioningTool\SerialPortTool\obj\Debug\SNBProvisioningTool.csproj.GenerateResource.Cache

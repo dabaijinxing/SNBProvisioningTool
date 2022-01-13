@@ -160,7 +160,7 @@ namespace SerialPortTool
 
             //MessageBox.Show(sn_hexstring);       //测试
 
-            string data1 = mac + sn_hexstring;
+            string data1 = sn_hexstring + mac;
             //计算len长度
             int llength = (Mac_sn_code_id.Length + data1.Length) / 2 + 3;
             len = llength.ToString("X").PadLeft(4, '0');
