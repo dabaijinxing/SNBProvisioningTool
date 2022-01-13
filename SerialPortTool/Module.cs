@@ -212,13 +212,13 @@ namespace SerialPortTool
                     BCC(byteXor, out temp);
                     xor = temp.ToString("X").PadLeft(2, '0');
                     //测试
-                    if (head == "55AA")
+                    /*if (head == "55AA")
                     {
                         tradeTime = DateTime.Now.ToString("[yyyy-MM-dd-HH:mm:ss]", DateTimeFormatInfo.InvariantInfo);
                        //msg = tradeTime + "<--成功-->\r\n";
                         msg = tradeTime + "<--成功-->\r\n" + "head:" + head + "\r\n" + "len:" + len + "\r\n" + "code_id:" + code_id + "\r\n" + "data:" + data + "\r\n" + "xor:" + xor + "\r\n";
-                    }
-                    /*if (head == "55AA" && xor == temp.ToString("X").PadLeft(2, '0') && code_id == "010A" && data == "00")
+                    }*/
+                    if (head == "55AA" && xor == temp.ToString("X").PadLeft(2, '0') && code_id == "010A" && data == "00")
                     {
                         tradeTime = DateTime.Now.ToString("[yyyy-MM-dd-HH:mm:ss]", DateTimeFormatInfo.InvariantInfo);
                         //msg = tradeTime + "<--成功-->\r\n";
@@ -230,7 +230,7 @@ namespace SerialPortTool
                         msg = tradeTime + "<--失败-->\r\n";
                         //msg = tradeTime + "<--失败-->\r\n" + "head:" + head + "\r\n" + "len:" + len + "\r\n" + "code_id:" + code_id + "\r\n" + "data:" + data + "\r\n" + "xor:" + xor + "\r\n";
                         return false;
-                    }*/
+                    }
                 }
                 else
                 {
